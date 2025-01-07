@@ -25,7 +25,7 @@ This repository contains example code used in published research on dark matter 
 
 ## Featured Research
 
-This codebase supported the following publications:
+The example code supported the following publications:
 
 1. [A natural boundary of dark matter haloes revealed around the minimum bias and maximum infall locations](https://arxiv.org/abs/2008.03477) - Discovery of a novel feature (depletion radius) and understanding the physics behind it
 2. [First measurement of the characteristic depletion radius of dark matter haloes from weak lensing](https://arxiv.org/abs/2205.01816) - Observational measurements supporting theory of depletion radius
