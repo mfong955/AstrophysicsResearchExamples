@@ -1,26 +1,47 @@
-# Astrophysics Research & Infrastructure Tools
+# Matthew Fong
+### Data Scientist & ML Researcher | former Astrophysics, Ph.D.
 
-An example of my Python-based research infrastructure and analysis tools developed for large-scale astrophysical data processing, featuring machine learning (ML) implementations and statistical analysis frameworks.
+Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridging academic research and industry. With postdoctoral and PhD research experience in astrophysics at SJTU and UTD, followed by Programmer Writer experience at AWS, I bring together rigorous analytical thinking and practical implementation skills.
 
-## Overview
+## 🔭 What I Do
+- Apply ML and statistical techniques to understand complex problems
+- Design and implement ML frameworks for analyzing large-scale datasets
+- Build automated testing infrastructure for model validation
+- Develop visualization tools for multi-parameter data analysis
+- Implement AI/ML to streamline scientific research
 
-This repository contains example code used in published research on dark matter halo dynamics and weak lensing. The class-object oriented code and tools were used for processing large-scale cosmological datasets and implementing various ML and advanced statistical techniques for parameter space exploration.
+## 💻 Technical Skills
+- **Programming:** Python (7+ years), ML, statistical modelling, object-oriented coding, data visualization and analysis
+- **ML & Data Science:** scikit-learn, Statistical Modeling, MCMC, multi-parameter optimization
+- **Big Data:** Distributed Computing, Large-scale Data Processing
+- **Cloud:** AWS, SageMaker, Cloud Infrastructure
 
-### Key Features
+## 💡 Skills & Approach
+- **Problem-Solving Focus:** Extensive experience adjusting programming solutions to complex research challenges
+- **Rapid Learning:** Adapting to fast-paced research environment, quickly learning new concepts and developing code to achieve goals
+- **Research-Driven:** Strong foundation in applying programming to data analysis and scientific computing
+- **Collaborative Development:** Experience working with international research teams and restyling information serving to general and technical audiences
 
-- Object-oriented framework for cosmological data analysis
-- Markov chain Monte Carlo (MCMC) implementation to research multi-dimensional parameter space
-- Statistical analysis tools (bootstrapping, MCMC, etc.)
-- Visualization modules for high-dimensional data representation
-- Scalable data processing pipelines for large astronomical datasets
+## 🌟 Featured Projects
+
+### 🚀 Astronomical Data Analysis Pipeline
+- Processed 8B+ data points from multiple simulations
+- Implemented custom ML frameworks for pattern recognition
+- Achieved 90%+ reliability in model validation
+
+### 🤖 AI-Powered Documentation Tools
+- Led development of internal AI tools at AWS
+- Implemented model evaluation and fine-tuning pipelines
+- Enhanced documentation accessibility and user experience
 
 ## Repository Structure
-
 ```
-├── codeExamples/                   # Example code used in most recent papers, using object-oriented code to implement ML and statistical techniques at scale
-├── figureExamples/                 # Example figures showcasing multi-dimensional parameterization exploration and analysis, statistical analysis, and data visualization
-├── publications/                   # My main author astrophysics PhD and postdocoral publications
-└── sharedData_CodeOcean_Fong2020/  # Publicly shared data and code for replication purposes for Fong2020 paper
+├── Astro machine learning tools/   # Example code used to streamline data processing and analysis
+├── Astro measurement examples/ # Example code and figures used in confirming astrophysics theory
+├── Astro theory examples/  # Example code and figures used to develop a novel astrophysics theory
+├── Data replication Code Ocean/    # [Code Ocean Repository](https://codeocean.com/capsule/1754477/tree/v1) - Additional examples and reproducible analysis
+├── Publication figure examples/        # A few example figures used in published works
+├── Publication first author list/  # My first author astrophysics PhD and postdocoral publications
 ```
 
 ## Featured Research
@@ -35,8 +56,10 @@ The example code supported the following publications:
 ## External Resources
 
 - [Code Ocean Repository](https://codeocean.com/capsule/1754477/tree/v1) - Additional examples and reproducible analysis
-- [CLMM Library Contributions](https://doi.org/10.1093/mnras/stab2764) - Collaborative work with LSST/Rubin Observatory
 
-## Contact
+## 🤝 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/matthew-w-fong)
+- [Email](mailto:matthewwf2001@gmail.com)
 
-Matthew Fong - matthewwf2001@gmail.com
+---
+*GitHub under construction!*
