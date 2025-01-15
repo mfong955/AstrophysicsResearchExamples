@@ -4,7 +4,7 @@
 Hi, I'm Matthew - a data scientist and researcher with a unique background bridging academic research and industry. With postdoctoral and PhD research experience in astrophysics at SJTU and UTD, followed by Programmer Writer experience at AWS, I bring together rigorous analytical thinking and practical implementation skills.
 
 ## 🔭 What I Do
-- Apply ML and statistical techniques to understand complex problems
+- Apply machine learning and statistical techniques to understand complex problems
 - Design and implement ML frameworks for analyzing large-scale datasets
 - Build automated testing infrastructure for model validation
 - Develop visualization tools for multi-parameter data analysis
@@ -14,7 +14,7 @@ Hi, I'm Matthew - a data scientist and researcher with a unique background bridg
 <img src="./Figure%20examples/Gaussian%20Process%20Regression%20on%20multi-parameter%20space.png" alt="Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data." width="31.8%"/> <img src="./Figure%20examples/Theory%20in%20particle%20dynamics.png" alt="Linking my novel theoretical boundary in relation to particle dynamics." width="67%"/>
 
 ## 💻 Technical Skills
-- **Programming:** Python (7+ years), ML, statistical modelling, data science and analysis, object-oriented programming
+- **Programming:** Python (7+ years), machine learning, statistical modelling, data science and analysis, object-oriented programming
 - **ML & Data Science:** Markov chain Monte Carlo, Gaussian Process Regression, multi-parameter optimization, hyperparameter tuning
 - **Big Data:** Large-scale data processing, distributed computing on supercomputer clusters
 - **Cloud & tools:** AWS, SageMaker, Git, scikit-learn, emcee, pandas, matplotlib
