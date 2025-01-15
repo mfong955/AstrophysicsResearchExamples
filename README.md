@@ -9,6 +9,9 @@ Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridg
 - Build automated testing infrastructure for model validation
 - Develop visualization tools for multi-parameter data analysis
 - Implement AI/ML to streamline scientific research
+- Data visualization:
+![Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data.](https://github.com/mfong955/AstrophysicsResearchExamples/blob/main/Publication%20figure%20examples/exploreParameterSpaceAnalysis.png)
+![Linking my novel theoretical boundary in relation to particle dynamics.](https://github.com/mfong955/AstrophysicsResearchExamples/blob/main/Publication%20figure%20examples/understandingFindingsInParticleDynamics.png)
 
 ## 💻 Technical Skills
 - **Programming:** Python (7+ years), ML, statistical modelling, data science and analysis, object-oriented programming
