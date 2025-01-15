@@ -11,8 +11,8 @@ Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridg
 - Implement AI/ML to streamline scientific research
 - Rigorously test code to verify findings along with data visualization
 
-<img src="./Figure%20examples/Gaussian%20Process%20Regression%20on%20multi-parameter%20space.png" alt="Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data." width="32%"/>
-<img src="./Figure%20examples/Theory%20in%20particle%20dynamics.png" alt="Linking my novel theoretical boundary in relation to particle dynamics." width="67%"/>
+<img src="./Figure%20examples/Gaussian%20Process%20Regression%20on%20multi-parameter%20space.png" alt="Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data." width="22.3%"/>
+<img src="./Figure%20examples/Theory%20in%20particle%20dynamics.png" alt="Linking my novel theoretical boundary in relation to particle dynamics." width="47%"/>
 
 ## 💻 Technical Skills
 - **Programming:** Python (7+ years), ML, statistical modelling, data science and analysis, object-oriented programming
