@@ -15,7 +15,7 @@ Hi, I'm Matthew - a data scientist and researcher with a unique background bridg
 
 ## 💻 Technical Skills
 - **Programming:** Python (7+ years), machine learning, statistical modelling, data science and analysis, object-oriented programming
-- **ML & Data Science:** Markov chain Monte Carlo, Gaussian Process Regression, multi-parameter optimization, hyperparameter tuning
+- **ML & Data Science:** Markov chain Monte Carlo, Gaussian Process Regression, multivariable optimization, hyperparameter tuning
 - **Big Data:** Large-scale data processing, distributed computing on supercomputer clusters
 - **Cloud & tools:** AWS, SageMaker, Git, scikit-learn, emcee, pandas, matplotlib
 
