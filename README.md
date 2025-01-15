@@ -1,7 +1,7 @@
 # Matthew Fong
-### Data Scientist & ML Researcher | former Astrophysics, Ph.D.
+### Data scientist & researcher | former Astrophysics, Ph.D.
 
-Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridging academic research and industry. With postdoctoral and PhD research experience in astrophysics at SJTU and UTD, followed by Programmer Writer experience at AWS, I bring together rigorous analytical thinking and practical implementation skills.
+Hi, I'm Matthew - a data scientist and researcher with a unique background bridging academic research and industry. With postdoctoral and PhD research experience in astrophysics at SJTU and UTD, followed by Programmer Writer experience at AWS, I bring together rigorous analytical thinking and practical implementation skills.
 
 ## 🔭 What I Do
 - Apply ML and statistical techniques to understand complex problems
