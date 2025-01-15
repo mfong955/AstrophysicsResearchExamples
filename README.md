@@ -9,7 +9,7 @@ Hi, I'm Matthew - a data scientist and researcher with a unique background bridg
 - Build automated testing infrastructure for model validation
 - Develop visualization tools for multi-parameter data analysis
 - Implement AI/ML to streamline scientific research
-- Rigorously test code to verify findings along with data visualization
+- Rigorously test code to verify findings along with data visualization (see [Figure examples](./Figure%20examples))
 
 <img src="./Figure%20examples/Gaussian%20Process%20Regression%20on%20multi-parameter%20space.png" alt="Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data." width="31.8%"/> <img src="./Figure%20examples/Theory%20in%20particle%20dynamics.png" alt="Linking my novel theoretical boundary in relation to particle dynamics." width="67%"/>
 
