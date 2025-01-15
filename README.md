@@ -11,10 +11,10 @@ Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridg
 - Implement AI/ML to streamline scientific research
 
 ## 💻 Technical Skills
-- **Programming:** Python (7+ years), ML, statistical modelling, object-oriented coding, data visualization and analysis
-- **ML & Data Science:** scikit-learn, Statistical Modeling, MCMC, multi-parameter optimization
-- **Big Data:** Distributed Computing, Large-scale Data Processing
-- **Cloud:** AWS, SageMaker, Cloud Infrastructure
+- **Programming:** Python (7+ years), ML, statistical modelling, data science and analysis, object-oriented programming
+- **ML & Data Science:** Markov chain Monte Carlo, Gaussian Process Regression, multi-parameter optimization, hyperparameter tuning
+- **Big Data:** Large-scale data processing, distributed computing on supercomputer clusters
+- **Cloud & tools:** AWS, SageMaker, Git, scikit-learn, emcee, pandas, matplotlib
 
 ## 💡 Skills & Approach
 - **Problem-Solving Focus:** Extensive experience adjusting programming solutions to complex research challenges
