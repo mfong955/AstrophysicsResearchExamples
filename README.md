@@ -10,8 +10,9 @@ Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridg
 - Develop visualization tools for multi-parameter data analysis
 - Implement AI/ML to streamline scientific research
 - Rigorously test code to verify findings along with data visualization
-<img src="https://github.com/mfong955/AstrophysicsResearchExamples/blob/main/Publication%20figure%20examples/exploreParameterSpaceAnalysis.png" alt="Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data." width="50%"/>
-<img src="https://github.com/mfong955/AstrophysicsResearchExamples/blob/main/Publication%20figure%20examples/understandingFindingsInParticleDynamics.png" alt="Linking my novel theoretical boundary in relation to particle dynamics." width="50%"/>
+
+<img src="./Figure%20Examples/Gaussian Process%20Regression%20on%20multi-parameter%20space.png" alt="Overlaying Gaussian Process Regression fits over multi-parameter space, understandin trends in data." width="32%"/>
+<img src="./Figure%20Examples/Theory%20in%20particle%20dynamics.png" alt="Linking my novel theoretical boundary in relation to particle dynamics." width="67%"/>
 
 ## 💻 Technical Skills
 - **Programming:** Python (7+ years), ML, statistical modelling, data science and analysis, object-oriented programming
@@ -40,10 +41,10 @@ Hi, I'm Matthew - a Data Scientist and Researcher with a unique background bridg
 ## Repository Structure
 ```
 ├── Astro machine learning tools/   # Example code used to streamline data processing and analysis
-├── Astro measurement examples/ # Example code and figures used in confirming astrophysics theory
-├── Astro theory examples/  # Example code and figures used to develop a novel astrophysics theory
-├── Data replication Code Ocean/    # [Code Ocean Repository](https://codeocean.com/capsule/1754477/tree/v1) - Additional examples and reproducible analysis
-├── Publication figure examples/        # A few example figures used in published works
+├── Astro measurement examples/     # Example code and figures used in confirming astrophysics theory
+├── Astro theory examples/          # Example code and figures used to develop a novel astrophysics theory
+├── Data replication Code Ocean/    # ![Code Ocean Repository](https://codeocean.com/capsule/1754477/tree/v1) - Additional examples and reproducible analysis
+├── Publication figure examples/    # A few example figures used in published works
 ├── Publication first author list/  # My first author astrophysics PhD and postdocoral publications
 ```
 
