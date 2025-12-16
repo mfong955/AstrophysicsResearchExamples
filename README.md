@@ -9,6 +9,11 @@
 
 PhD physicist turned data scientist with 7+ years of Python experience, specializing in **Bayesian inference**, **Gaussian Process Regression**, and **large-scale statistical modeling**. I've processed 8+ billion data points in my research and published 4 first-author papers applying advanced ML/statistics to complex real-world problems. Currently an AI/ML Technical Writer at AWS.
 
+> **📝 Note:** I used AI to reorganize this portfolio for clarity. All original code is mine, written before AI coding assistants existed.
+> - **Quick overview:** Browse the [Featured Projects](#-featured-projects) below
+> - **Verify my skills:** Check [`research-archive/`](./research-archive/) for my original code
+> - **See the mapping:** [`CODE_MAPPING.md`](./CODE_MAPPING.md) shows which original files demonstrate each technique
+
 ## 🛠️ Core Competencies
 
 | Category | Skills |
@@ -72,16 +77,16 @@ PhD physicist turned data scientist with 7+ years of Python experience, speciali
 
 ---
 
-### 5. [Reproducible Research Framework](./reproducible-research/)
-> **Docker-containerized analysis pipeline for scientific reproducibility**
+### 5. [Data Visualizations](./visualizations/)
+> **Publication-quality visualizations demonstrating complex data analysis**
 
 | Aspect | Details |
 |--------|---------|
-| **Problem** | Ensure research results are fully reproducible across different computing environments |
-| **Approach** | Docker containerization, structured code/data separation, automated result generation |
-| **Scale** | Complete analysis pipeline from raw data to publication figures |
-| **Results** | Published on Code Ocean with one-click reproducibility |
-| **Key Skills** | `docker` `reproducibility` `data-pipelines` `scientific-computing` |
+| **Problem** | Communicate complex statistical and ML results clearly to stakeholders |
+| **Approach** | matplotlib, seaborn, corner plots with publication-ready formatting |
+| **Scale** | Multi-panel figures, uncertainty visualization, model diagnostics |
+| **Results** | Publication-quality figures used in peer-reviewed papers |
+| **Key Skills** | `matplotlib` `data-visualization` `scientific-plotting` `uncertainty-visualization` |
 
 ---
 
@@ -98,6 +103,23 @@ PhD physicist turned data scientist with 7+ years of Python experience, speciali
 ### Statistical Model Fitting
 ![Model Fitting](./visualizations/figures/model_fitting.png)
 *Model fitting to observational data with full covariance matrix handling. Shows rigorous statistical methodology for fitting models to noisy real-world data with correlated uncertainties.*
+
+---
+
+## 📁 Repository Structure
+
+```
+├── bayesian-inference/          # MCMC and Bayesian parameter estimation
+├── gaussian-process-regression/ # GPR for multi-dimensional interpolation
+├── statistical-modeling/        # Covariance-weighted model fitting
+├── large-scale-data/           # Parallel processing for big data
+├── visualizations/             # Publication-quality figures
+├── publications/               # First-author research papers (PDFs)
+├── research-archive/           # Original research code (reference)
+└── CODE_MAPPING.md             # Maps original code → portfolio examples
+```
+
+📋 **[CODE_MAPPING.md](./CODE_MAPPING.md)** — See which original research files each portfolio project was derived from, including detailed technique extraction.
 
 ---
 
